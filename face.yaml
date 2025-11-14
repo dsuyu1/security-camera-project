@@ -1,0 +1,13 @@
+# WIDER FACE → YOLOv11 dataset configuration
+
+path: ./datasets  
+train: WIDER_train/images  
+val: WIDER_val/images
+test: WIDER_test/images
+
+names:
+  0: face
+
+
+nc: 1   
+download: null

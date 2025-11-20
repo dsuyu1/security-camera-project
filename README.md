@@ -1,10 +1,15 @@
 ![img](https://github.com/dsuyu1/security-camera-project/blob/main/ztf_workflow.png?raw=true)
-
+<div align="center">
+  
+  ##### Proposed workflow.
+  
+  </div>
+  
 # Privacy-First CCTV System
-Making a new and secure security camera framework for my senior project class.
+Making a robust and secure IoT edge device framework for my senior project class.
 
 
-# How to train YOLO
+## Training YOLO
 Download the dataset from https://www.kaggle.com/datasets/iamprateek/wider-face-a-face-detection-dataset?resource=download
 Place the dataset into the repo and run the convert_to_yolo.py script.
 There may be file pathing errors so ensure the dataset paths are as described in the python script editing either the path used in the python file or of the dataset.

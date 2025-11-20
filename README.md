@@ -18,3 +18,6 @@ From [here](https://docs.ultralytics.com/models/yolo12/#detection-performance-co
 ```
 yolo train model=\<your model weights\> data=face.yaml imgsz=640 epochs=100 batch=16 
 ```
+
+## Midterm Poster 
+![Midterm poster presentation](Slide1.jpg)
